@@ -1,0 +1,4 @@
+group,roles
+department_rg,Contributor;Monitoring Reader
+staff_rg,Reader
+finance_rg,Reader;Storage Blob Data Reader
