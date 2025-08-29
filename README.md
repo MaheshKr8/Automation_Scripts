@@ -39,6 +39,7 @@ d199062a-9d18-43ed-bee5-666c1b771e79
 
 ### `mappings.csv`
 group,roles
+
 department_rg,Contributor;Monitoring Reader
 staff_rg,Reader
 finance_rg,Reader;Storage Blob Data Reader
@@ -79,13 +80,16 @@ DEBUG: DRY_RUN=false
 
 # vi mappings.csv
 group,roles
+
 department_rg,Contributor;Monitoring Reader
 staff_rg,Reader
 finance_rg,Reader;Storage Blob Data Reader
 
 # vi subscriptions.txt 
 d199062a-9d18-43ed-bee5-666c1b771e79
+
 falfdlkd-lakjdkla-dklajkfd-dkladjall
+
 # Dry run (default):
 ./main.sh
 
